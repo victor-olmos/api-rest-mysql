@@ -1,0 +1,13 @@
+
+//GET http://localhost:3000/users HTTP/1.1
+PUT  http://localhost:3000/users/13 HTTP/1.1
+content-type: application/json
+
+{
+  
+   "username":"eduardo",
+   "password":"ella",
+   "email":"estasicagao@gmail.com"
+
+
+}
